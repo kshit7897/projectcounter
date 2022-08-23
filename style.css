@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(230deg,orange,red,yellow);
+}
+
+.container{
+    text-align: center;
+}
+
+.tittle{
+    font-size: 80px;
+    margin-top: 40px;
+}
+
+.counter{
+    font-size: 60px;
+    margin: 30px;
+}
+.btn{
+    padding: 10px;
+    font-size: 1opx;
+    border: 2px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.or{
+    border: 2px solid;
+    border-radius: 50%;
+    padding: 10px;
+    color: aqua;
+}
+
+
